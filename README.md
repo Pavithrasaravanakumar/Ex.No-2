@@ -91,7 +91,8 @@ return 0;
 ```
 
 # OUTPUT
-![image](https://github.com/user-attachments/assets/38d12c79-1841-4a4a-8e9d-bf10a011a575)
+
+![image](https://github.com/user-attachments/assets/2e0c8d70-a827-4900-8e84-8a9a3e2d4404)
 
 # RESULT
 The lexical analyzer is implemented using lex and the output is verified.
